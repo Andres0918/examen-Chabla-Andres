@@ -19,6 +19,6 @@ docker pull andres1809/examen-chabla-andres
 ```
 
 ### **2. Ejecutar el proyecto**
-Ubicate en la carpete raiz donde esta en docker-compose.yml y ejecuta el siguiente comando
+Ubicate en la carpeta raiz donde está el docker-compose.yml y ejecuta el siguiente comando
 ```bash
 docker-compose up
