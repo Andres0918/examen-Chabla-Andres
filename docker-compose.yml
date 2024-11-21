@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  angular-apache:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    volumes:
+      - ./front/dist/front/browser:/var/www/html
+      - ./angular-apache.conf:/etc/apache2/sites-available/000-default.conf
