@@ -1,11 +1,11 @@
-# Proyecto Docker Angular + Apache
+# Examen Docker Angular + Apache
 
 Este repositorio configura un servidor Apache para servir una aplicación Angular en un contenedor Docker.
 
 ---
 
 ## **Requisitos Previos**
-Antes de ejecutar el proyecto, asegúrate de tener instalados:
+Antes de ejecutar el proyecto, asegúrate de tener instalado esta aplicacion:
 - **Docker Desktop**
 
 ---
